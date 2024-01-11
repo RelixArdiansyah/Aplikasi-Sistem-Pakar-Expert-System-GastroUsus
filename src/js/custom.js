@@ -1,7 +1,7 @@
 /**
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Untuk mengubah header lisensi ini, pilih Header Lisensi di Properti Proyek.
+ * Untuk mengubah file template ini, pilih Tools | Template
+ * dan buka template di editor.
  */
 
 var CURRENT_URL = window.location.href.split('#')[0].split('?')[0],
